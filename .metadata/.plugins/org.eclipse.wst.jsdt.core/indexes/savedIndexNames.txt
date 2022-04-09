@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\kncoffee_project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1675971558.index
+3329931991.index
+2801453400.index
+1247311567.index
+4008901493.index
+1143026473.index
+3049464264.index
